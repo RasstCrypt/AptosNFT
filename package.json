@@ -1,0 +1,20 @@
+{
+  "name": "aptosnft",
+  "version": "1.0.0",
+  "description": "We are not affiliated with Aptos or any NFT project. We develop tools for everyone to use, at their own risk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasstCrypt/AptosNFT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasstCrypt/AptosNFT/issues"
+  },
+  "homepage": "https://github.com/RasstCrypt/AptosNFT#readme"
+}
